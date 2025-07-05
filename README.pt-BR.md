@@ -1,8 +1,8 @@
 <div align="center"><a name="readme-top"></a>
   
   # Calculator </br>
-  Simple calculator for CSS practice. </br>
-  **English** · [Português (Brasil)](./README.pt-BR.md)
+  Calculadora simples para a prática de CSS. </br>
+  [English](./README.md) · **Português (Brasil)**
   
 </div>
 
@@ -10,7 +10,8 @@
 
 ## 🔍 Overview
 
-This project was created solely for studying and practicing CSS. Feel free to fork the repository or test the application yourself!
+Este projeto foi criado exclusivamente para o estudo e prática de CSS.
+Sinta-se à vontade para fazer fork do repositório ou testar a aplicação você mesmo!
 
 ## 💻 Tech Stack
 
