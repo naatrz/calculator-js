@@ -10,6 +10,10 @@ class Calculator {
     }
 
     addDigit(digit) {
+        if(digit === "." && this.currentOperationText.innerText.includes(".")) {
+            return;
+        }
+
         this.currentOperation = digit;
         this.updateScreen()
     }
